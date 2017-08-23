@@ -9,6 +9,7 @@
 
 .map-container p {
   font-size: 20px;
+  max-width: 250px;
 }
 
 
@@ -38,12 +39,15 @@
   margin-bottom: 2px;
 }
 
-.create-container h2 {
-  font-size: 33px;
-}
+
 
 .create-container p {
   font-size: 20px;
+  max-width: 250px;
+}
+
+.create-container h3 {
+padding-right: 9%;
 }
 
 .bg {
